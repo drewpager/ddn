@@ -1,0 +1,1 @@
+// Also Add Google Site Verification in public folder
